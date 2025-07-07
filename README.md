@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Passionate about technology, I lead software projects in the logistics sector, focusing on API integrations, intelligent systems, and scalable solutions. Experienced with JavaScript PHP, Java, Python, React, Android and clean architecture.</p>
+<p align="left">Passionate about technology, I lead software projects in the logistics sector, focusing on API integrations, intelligent systems, and scalable solutions. Experienced with JavaScript, PHP, Java, Python, React, Android and clean architecture.</p>
 
 ###
 
