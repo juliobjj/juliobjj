@@ -56,17 +56,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=juliobjj&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph" />
-</div>
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juliobjj/juliobjj/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juliobjj/juliobjj/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/juliobjj/juliobjj/output/pacman-contribution-graph.svg">
-</picture>
-
 ###
 
 <h2 align="left">Social Media</h2>
